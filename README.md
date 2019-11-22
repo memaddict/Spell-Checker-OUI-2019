@@ -2,7 +2,7 @@
 
 [![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)](https://www.python.org/) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![Build Status](https://img.shields.io/badge/license-Coffeware-yellowgreen.svg)](https://img.shields.io/badge/license-Coffeware-yellowgreen.svg)
 
-## Spell Checker implementation for DSA couse. (Data Structures & Algorithms)
+## Spell Checker implementation for DSA course. (Data Structures & Algorithms)
 
 
 
