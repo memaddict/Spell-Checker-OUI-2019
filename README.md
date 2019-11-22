@@ -25,7 +25,7 @@
 
 **Implementation details:**
 
-- **MajellMap** - Open adressed HashMap
+- **MajellaMap** - Open adressed HashMap
 	- Uses Round Robin linear probing with log2n limit
 	- Uses MurMurHash3 to hash *(currently can hash only strings)*
 	- Uses Fibbonachi Hashing to map the values to current size
