@@ -1,9 +1,5 @@
 # Spell Checker [OUI - 2019]
 
-[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
-
 [![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)](https://www.python.org/) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![Build Status](https://img.shields.io/badge/license-Coffeware-yellowgreen.svg)](https://img.shields.io/badge/license-Coffeware-yellowgreen.svg)
 
 ## Spell Checker implementation for DSA couse. 
