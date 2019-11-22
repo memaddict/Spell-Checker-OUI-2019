@@ -36,7 +36,7 @@
 	- Follows Chris's original algorithms for addition
 	- Sadly is NOT, fully functional, uses highly mutable objects as nodes
 
-**A little insight in to some design desision in RedBlack Tree:**
+**Here is my excuse for design desicions:**
 
 ![Deadline](https://melmeric.files.wordpress.com/2011/02/codequality.png) 
 
