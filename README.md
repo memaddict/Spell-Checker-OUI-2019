@@ -8,7 +8,7 @@
 
 - :japan: Custom HashMap implementation 
     
-- :palm_tree: Okasaki RedBlack Trees with bad code quality 
+- :palm_tree: Okasaki RedBlack Trees
     
 - :grey_question: Basically hashes one file as dictionary and checks other file with it
     
